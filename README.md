@@ -4,7 +4,7 @@ Sales Performance Dashboard – Used Car Analysis
 
 This project presents an interactive Sales Performance Dashboard built to analyze used car market data and extract meaningful business insights. The dashboard provides a comprehensive overview of vehicle pricing trends, brand performance, fuel distribution, and overall sales metrics.
 
-📊 Key Metrics Displayed
+Key Metrics Displayed
 
 •	Total Cars Listed: 15,411
 
