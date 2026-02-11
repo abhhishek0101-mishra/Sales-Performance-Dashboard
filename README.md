@@ -1,6 +1,6 @@
 ---
 
-🚗 Sales Performance Dashboard – Used Car Analysis
+Sales Performance Dashboard – Used Car Analysis
 
 This project presents an interactive Sales Performance Dashboard built to analyze used car market data and extract meaningful business insights. The dashboard provides a comprehensive overview of vehicle pricing trends, brand performance, fuel distribution, and overall sales metrics.
 
@@ -14,11 +14,10 @@ This project presents an interactive Sales Performance Dashboard built to analyz
 
 •	Average KM Driven: 55,616 Kms
 
-
-
 ---
 
 📈 Dashboard Insights
+
 
 1️⃣ Vehicle Age vs Average Selling Price
 
@@ -62,8 +61,6 @@ For each brand, the dashboard analyzes:
 
 •	Average Engine Capacity
 
-
-
 ---
 
 🔎 Interactive Filters (Slicers)
@@ -80,9 +77,7 @@ Transmission Type (Manual / Automatic)
 
 •	Number of Seats
 
-
 This enables detailed, customized analysis for different segments of the market.
-
 
 ---
 
@@ -97,9 +92,6 @@ This enables detailed, customized analysis for different segments of the market.
 •	Slicers
 
 •	Data Cleaning & Transformation
-
-
-
 
 ---
 
