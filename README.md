@@ -108,3 +108,5 @@ Understand customer preferences (fuel type, transmission, etc.)
 Provide a data-driven view of used car sales performance
 
 ---
+PFB the Link of the dataset and dashboard : 
+https://1drv.ms/x/c/C7BAFD6669D6A1BF/IQARQ7fp586GSbOwmVPkRyfwASbOPlcMgy_wCD_s1o4Rh38?e=bDsfPq
